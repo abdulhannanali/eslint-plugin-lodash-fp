@@ -1,5 +1,7 @@
 # eslint-plugin-lodash-fp [![Build Status](https://travis-ci.org/jfmengels/eslint-plugin-lodash-fp.svg?branch=master)](https://travis-ci.org/jfmengels/eslint-plugin-lodash-fp)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/abdulhannanali/eslint-plugin-lodash-fp.svg)](https://greenkeeper.io/)
+
 ESLint rules for lodash/fp
 
 
